@@ -14,7 +14,7 @@ Currently learning more about `AI integration`, `project structuring`, and `test
 
 ## 📫 How to reach me
 - Email: zuherash@gmail.com
-- Instagram:zuheir.dev
+- Instagram: zuheir.dev
 - GitHub: [zuherash](https://github.com/zuherash)
 
 > “I don’t give up until I figure it out.”
