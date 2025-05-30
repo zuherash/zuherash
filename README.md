@@ -4,9 +4,9 @@
 🔥 Passionate about Django, REST APIs, and building cool, real-world projects  
 
 ## 🚀 Projects I'm proud of:
-- 🧠 AI-Powered Meeting Summarizer – Automatic meeting insights using OpenAI Whisper
+- 🧠 AI-Powered Meeting Summarizer – Automatic meeting insights using OpenAI Whisper (In Progress)
 - 🛒 Django E-commerce Backend – Full-featured e-commerce APIs with Django DRF
-- 📺 Castera – Live video streaming backend using Django + Stream.io
+- 📺 Castera – Live video streaming backend using Django + WebRTC
 
 ## 🧰 Tech Stack
 `Python` `Django` `Django REST Framework` `PostgreSQL` `Git` `Docker (beginner)`  
