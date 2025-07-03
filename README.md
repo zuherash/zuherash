@@ -1,24 +1,27 @@
-# Hi there 👋 I'm Zuhier Al-Ashram
+# Hello, I'm Zuhier Al-Ashram 👋
 
-🎓 Final-year IT student at IUST | 💻 Aspiring Backend Developer  
-🔥 Passionate about Django, REST APIs, and building cool, real-world projects  
+I recently graduated from the International University for Science and Technology (IUST) with a degree in Information Technology. My primary focus is building robust Django applications and RESTful APIs.
 
-## 🚀 Projects I'm proud of:
-- 🧠 AI-Powered Meeting Summarizer – Automatic meeting insights using OpenAI Whisper (In Progress)
-- 🛒 Django E-commerce Backend – Full-featured e-commerce APIs with Django DRF
-- 📺 Castera – Live video streaming backend using Django + WebRTC
+## Projects
+- **AI-Powered Meeting Summarizer** – Provides automatic meeting insights using OpenAI Whisper *(in progress)*
+- **Django E-commerce Backend** – A full-featured e-commerce API built with Django REST Framework
+- **Castera** – Live video streaming backend powered by Django and WebRTC
 
-## 🧰 Tech Stack
-`Python` `Django` `Django REST Framework` `PostgreSQL` `Git` `Docker (beginner)`  
-Currently learning more about `AI integration`, `project structuring`, and `testing`.
+## Tech Stack
+- Python
+- Django & Django REST Framework
+- PostgreSQL
+- Git
+- Docker (beginner)
 
-## 📫 How to reach me
-- Email: zuherash@gmail.com
-- Instagram: zuheir.dev
-- GitHub: [zuherash](https://github.com/zuherash)
+I am currently expanding my knowledge in AI integration, project structuring, and testing.
 
-> “I don’t give up until I figure it out.”
+## Get in Touch
+- **Email:** zuherash@gmail.com
+- **Instagram:** [zuheir.dev](https://instagram.com/zuheir.dev)
+- **GitHub:** [zuherash](https://github.com/zuherash)
 
+> "I don’t give up until I figure it out."
 
 <!--
 **zuherash/zuherash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
