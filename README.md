@@ -3,7 +3,7 @@
 I recently graduated from the International University for Science and Technology (IUST) with a degree in Information Technology. My primary focus is building robust Django applications and RESTful APIs.
 
 ## Projects
-- **AI-Powered Meeting Summarizer** – Provides automatic meeting insights using OpenAI Whisper *(in progress)*
+- **Bookspace API** – Provides a book and libraries manager system *(in progress)*
 - **Django E-commerce Backend** – A full-featured e-commerce API built with Django REST Framework
 - **Castera** – Live video streaming backend powered by Django and WebRTC
 
