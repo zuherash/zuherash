@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Zuhier Al-Ashram  
 
-🎓 Recent graduate in **Information Technology** from IUST.  
-💻 Passionate about **Backend Development**, mainly with **Django** & **REST APIs**.  
-🚀 I enjoy building projects that solve real-world problems, learning new tools, and exploring AI integration.  
+ Recent graduate in **Information Technology** from IUST.  
+ Passionate about **Backend Development**, mainly with **Django** & **REST APIs**.  
+ I enjoy building projects that solve real-world problems, learning new tools, and exploring AI integration.  
 
 ---
 
