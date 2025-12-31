@@ -78,5 +78,3 @@ Open to work — actively seeking backend roles, internships, and contract oppor
 - Exploring AI integration into backend services
 
 ---
-
-Resume: Upload your CV (Zuheir Al-Ashram.pdf) to the repository root and link it here: `[Download Resume](./Zuheir%20Al-Ashram.pdf)`
