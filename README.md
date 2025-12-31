@@ -2,9 +2,9 @@
 
 > "I don’t give up until I figure it out." ✨
 
-[![Followers](https://img.shields.io/github/followers/zuherash?style=social)](https://github.com/zuherash)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuherash&layout=compact&theme=radical)](https://github.com/zuherash)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zuherash&show_icons=true&count_private=true&theme=radical)](https://github.com/zuherash)
+[![Follow on GitHub](https://img.shields.io/github/followers/zuherash?label=Follow&style=social)](https://github.com/zuherash)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zuheir%20Alashram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zuheir-dev)  
+[![Email](https://img.shields.io/badge/Email-zuherash%40gmail.com-blue?style=flat&logo=gmail)](mailto:zuherash@gmail.com)
 
 ---
 
@@ -19,23 +19,23 @@ I'm Zuhier Al-Ashram — a recent Information Technology graduate from IUST and 
 ---
 
 ## Tech Stack
-- Python  
-- Django  
-- Django REST Framework (DRF)  
-- PostgreSQL  
-- Git  
-- Docker
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) 
+[![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## Experience (highlights)
 I have experience building and maintaining backend systems and platform features, including:
 
-- Designing and implementing SaaS backends with JWT authentication, payments and subscription workflows, and real-time notifications.  
-- Developing modular SaaS features such as OTP authentication flows, media/reels handling, and chat systems.  
-- Implementing PDF invoice generation, payout processing, background task orchestration with Celery, and multi-tenant isolation patterns.  
-- Building e‑commerce API components: product catalogs, carts, and order processing.  
-- Working with real-time features (chat/meetings) integrated with backend systems.
+- Designing and implementing SaaS backends with JWT authentication, payment & subscription workflows, and real-time notifications.  
+- Developing modular features like OTP flows, media handling, and chat systems.  
+- Implementing PDF invoice generation, payout processing, background task orchestration (Celery), and multi-tenant patterns.  
+- Building e‑commerce API components (catalog, carts, orders).  
+- Integrating real-time features (chat/meetings) with backend systems.
 
 ---
 
@@ -76,3 +76,7 @@ Open to work — actively seeking backend roles, internships, and contract oppor
 - Building clean APIs and developer-friendly tooling  
 - Using Docker to make environments reproducible  
 - Exploring AI integration into backend services
+
+---
+
+Resume: Upload your CV (Zuheir Al-Ashram.pdf) to the repository root and link it here: `[Download Resume](./Zuheir%20Al-Ashram.pdf)`
