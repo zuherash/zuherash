@@ -9,10 +9,10 @@
 ---
 
 ## About Me
-I'm Zuhier Al-Ashram — a recent Information Technology graduate from IUST and a Backend Developer specializing in Django and Django REST Framework. I build reliable REST APIs, design data models, and ship containerized services. I enjoy solving real-world problems, learning new tools, and exploring AI integration.
+I'm Zuhier Al-Ashram — a recent Information Technology graduate from IUST and a Backend Developer specializing in Django and Django REST Framework, and currently learning Laravel. I build reliable REST APIs, design data models, and ship containerized services. I enjoy solving real-world problems, learning new tools, and exploring AI integration.
 
 - 🎓 BSc in Information Technology — IUST  
-- 💻 Focus: Backend Development (Django, DRF)  
+- 💻 Focus: Backend Development (Django, DRF, laravel)  
 - ⚙️ Interests: API design, database modeling, deployment with Docker, and AI-powered features  
 - 🧩 Approach: pragmatic, test-oriented, and user-focused
 
@@ -22,6 +22,7 @@ I'm Zuhier Al-Ashram — a recent Information Technology graduate from IUST and 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) 
 [![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
